@@ -140,7 +140,7 @@ export default function Pronostics() {
             Prêt à parier ?
           </h3>
           <p className="text-gray-900 mb-6 text-sm sm:text-base">
-            Utilise le code <span className="font-bold">MOULIOM100</span> pour ton bonus
+            Utilise le code <span className="font-bold">LDCMH</span> pour ton bonus
           </p>
           <CTAButton text="Parier maintenant" large className="bg-black hover:bg-gray-900 text-yellow-500" />
         </div>

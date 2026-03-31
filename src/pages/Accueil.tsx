@@ -172,7 +172,7 @@ export default function Accueil({ onNavigate }: AccueilProps) {
             Bonus exclusif disponible
           </h2>
           <p className="text-lg sm:text-xl text-gray-900 mb-6">
-            Utilise le code promo <span className="font-bold">MOULIOM100</span> pour obtenir ton
+            Utilise le code promo <span className="font-bold">LDCMH</span> pour obtenir ton
             bonus
           </p>
           <p className="text-sm text-red-700 font-semibold mb-6">

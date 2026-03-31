@@ -77,9 +77,9 @@ export default function Apprendre() {
         'Clique sur "S\'inscrire", remplis tes informations personnelles, vérifie ton numéro de téléphone, et ton compte sera créé en quelques minutes.',
     },
     {
-      question: 'Comment utiliser le code promo MOULIOM100 ?',
+      question: 'Comment utiliser le code promo LDCMH ?',
       reponse:
-        'Lors de ton inscription, entre le code MOULIOM100 dans le champ "Code promotionnel". Le bonus sera automatiquement ajouté après ton premier dépôt.',
+        'Lors de ton inscription, entre le code LDCMH dans le champ "Code promotionnel". Le bonus sera automatiquement ajouté après ton premier dépôt.',
     },
     {
       question: 'Comment déposer avec Mobile Money ?',
@@ -235,7 +235,7 @@ export default function Apprendre() {
             Commence maintenant avec ton bonus exclusif
           </p>
           <a
-            href="https://melbet.com/?refid=MOULIOM100"
+            href="https://refpa3665.com/L?tag=d_4161265m_45415c_&site=4161265&ad=45415"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-black hover:bg-gray-900 text-yellow-500 font-bold px-8 py-4 rounded-lg transition-all"

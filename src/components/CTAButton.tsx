@@ -6,7 +6,7 @@ interface CTAButtonProps {
   className?: string;
 }
 
-const AFFILIATE_LINK = 'https://melbet.com/?refid=MOULIOM100';
+const AFFILIATE_LINK = 'https://refpa3665.com/L?tag=d_4161265m_45415c_&site=4161265&ad=45415';
 
 export default function CTAButton({ text, large = false, className = '' }: CTAButtonProps) {
   return (

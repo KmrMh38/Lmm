@@ -15,14 +15,14 @@ export default function Bonus() {
       titre: 'Entrer le code promo',
       icon: <Ticket size={32} className="text-yellow-500" />,
       description:
-        'Dans le champ "Code promotionnel", entre exactement MOULIOM100 pour activer ton bonus exclusif.',
+        'Dans le champ "Code promotionnel", entre exactement LDCMH pour activer ton bonus exclusif.',
     },
     {
       numero: 3,
       titre: 'Faire un dépôt',
       icon: <Smartphone size={32} className="text-yellow-500" />,
       description:
-        'Dépose un minimum de 500 FCFA via MTN Mobile Money ou Orange Money pour recevoir ton bonus.',
+        'Dépose un minimum de 1000 FCFA via MTN Mobile Money ou Orange Money pour recevoir ton bonus.',
     },
   ];
 
@@ -156,7 +156,7 @@ export default function Bonus() {
                 <div className="text-center">
                   <p className="text-gray-400 text-sm mb-2">Ton code promo exclusif :</p>
                   <div className="bg-yellow-500 text-black text-2xl sm:text-3xl font-bold py-4 px-6 rounded inline-block">
-                    MOULIOM100
+                    LDCMH
                   </div>
                 </div>
               </div>

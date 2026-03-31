@@ -10,7 +10,7 @@ export default function Montante() {
       cote: '1.30',
       mise: '1000 FCFA',
       gainPotentiel: '1300 FCFA',
-      statut: 'terminé',
+      statut: 'en cours',
     },
     {
       jour: 2,
@@ -19,7 +19,7 @@ export default function Montante() {
       cote: '1.50',
       mise: '1300 FCFA',
       gainPotentiel: '1950 FCFA',
-      statut: 'terminé',
+      statut: 'à venir',
     },
     {
       jour: 3,
@@ -28,7 +28,7 @@ export default function Montante() {
       cote: '1.40',
       mise: '1950 FCFA',
       gainPotentiel: '2730 FCFA',
-      statut: 'en cours',
+      statut: 'à venir',
     },
     {
       jour: 4,
@@ -181,7 +181,7 @@ export default function Montante() {
             Prêt à commencer ta montante ?
           </h3>
           <p className="text-gray-400 mb-6 text-sm sm:text-base">
-            Inscris-toi maintenant et utilise le code <span className="text-yellow-500 font-bold">MOULIOM100</span> pour ton bonus
+            Inscris-toi maintenant et utilise le code <span className="text-yellow-500 font-bold">LDCMH</span> pour ton bonus
           </p>
           <CTAButton text="Rejoindre la montante" large />
         </div>

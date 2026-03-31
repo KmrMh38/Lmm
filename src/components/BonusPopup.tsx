@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { X, Gift } from 'lucide-react';
 
-const AFFILIATE_LINK = 'https://melbet.com/?refid=MOULIOM100';
+const AFFILIATE_LINK = 'https://refpa3665.com/L?tag=d_4161265m_45415c_&site=4161265&ad=45415';
 
 export default function BonusPopup() {
   const [isVisible, setIsVisible] = useState(false);
@@ -36,7 +36,7 @@ export default function BonusPopup() {
             Ne rate pas ton bonus exclusif
           </p>
           <div className="bg-yellow-500 text-black text-xl sm:text-2xl font-bold py-3 px-4 rounded mb-6 inline-block">
-            MOULIOM100
+            LDCMH
           </div>
           <p className="text-red-400 font-semibold mb-6 text-sm sm:text-base">
             Offre limitée - Inscris-toi maintenant

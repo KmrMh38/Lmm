@@ -12,7 +12,7 @@ export default function Accueil({ onNavigate }: AccueilProps) {
       match: 'PSG vs Marseille',
       pari: 'Over 2.5 buts',
       cote: '1.75',
-      confiance: 4,
+      confiance: 2,
     },
     {
       match: 'Man City vs Arsenal',

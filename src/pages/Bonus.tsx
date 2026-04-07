@@ -8,21 +8,21 @@ export default function Bonus() {
       titre: 'Créer un compte',
       icon: <UserPlus size={32} className="text-yellow-500" />,
       description:
-        'Clique sur le bouton d\'inscription et remplis tes informations personnelles (nom, prénom, numéro de téléphone).',
+        'Clique sur le bouton d\'inscription, choisis l\'inscription par telephone, entre les données demandées (numero de telephone & le code promo --LDCMH--).',
     },
     {
       numero: 2,
-      titre: 'Entrer le code promo',
+      titre: 'Activation du code promo',
       icon: <Ticket size={32} className="text-yellow-500" />,
       description:
-        'Dans le champ "Code promotionnel", entre exactement LDCMH pour activer ton bonus exclusif.',
+        'Dans la section MON COMPTE remplissez tous les champs requis (nom, prenom etc...)',
     },
     {
       numero: 3,
       titre: 'Faire un dépôt',
       icon: <Smartphone size={32} className="text-yellow-500" />,
       description:
-        'Dépose un minimum de 1000 FCFA via MTN Mobile Money ou Orange Money pour recevoir ton bonus.',
+        'Après s\'être rassuré d\'avoir tout remplis,faites un dépôt d\'aumoins 600 FCFA via MTN Mobile Money ou Orange Money pour recevoir ton bonus.',
     },
   ];
 

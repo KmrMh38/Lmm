@@ -55,7 +55,6 @@ export default function Accueil({ onNavigate }: AccueilProps) {
   return (
     
     <div className="min-h-screen bg-gradient-to-b from-black to-gray-900">
-      <iframe scrolling='no' frameBorder='0' style='padding:0px; margin:0px; border:0px;border-style:none;border-style:none;' width='728' height='90' src="https://refpa11244.com/I?tag=d_5475340m_21427c_&site=5475340&ad=21427" ></iframe>
       <section className="relative bg-gradient-to-r from-black via-gray-900 to-black py-16 sm:py-24 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 sm:mb-6">
